@@ -1,5 +1,5 @@
 # 🛒 coMash
-coMash là giải pháp phần mềm dành cho một cửa hàng kinh doanh thời trang có quy mô nhỏ tại thành phố Hồ Chí Minh. Dự án được phát triển nhằm trở thành một ứng dụng quản lý thông minh, giúp tối ưu hóa toàn bộ quy trình vận hành, từ đó giúp chủ cửa hàng tiết kiệm thời gian, giảm thiểu sai sót do thao tác thủ công và đạt được lợi nhuận tốt nhất.
+**coMash** là giải pháp phần mềm dành cho một cửa hàng kinh doanh thời trang có quy mô nhỏ tại thành phố Hồ Chí Minh. Dự án được phát triển nhằm trở thành một ứng dụng quản lý thông minh, giúp tối ưu hóa toàn bộ quy trình vận hành, từ đó giúp chủ cửa hàng tiết kiệm thời gian, giảm thiểu sai sót do thao tác thủ công và đạt được lợi nhuận tốt nhất.
 ## 🚀 Tính năng nổi bật
 - 👥 **Quản Lý Nhân Sự & Phân Quyền**:
   - Cơ chế phân quyền chặt chẽ giữa Chủ cửa hàng và Nhân viên.
